@@ -45,5 +45,5 @@
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/neeharika-sompalli-profile/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/neeharika-sompalli-profile/)
 [![Email](https://img.shields.io/badge/Email-neehasrika@gmail.com-red?style=flat&logo=gmail)](mailto:neehasrika@gmail.com)
