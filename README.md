@@ -13,7 +13,6 @@
 <div align="center">
 
 [![MS Data Science](https://img.shields.io/badge/MS-Data%20Science%20%40%20UNF%202026-6d28d9?style=flat-square&logoColor=white)](https://www.unf.edu/)
-[![B.Tech CSE](https://img.shields.io/badge/B.Tech-Computer%20Science%20%40%20KL%20University-7c3aed?style=flat-square&logoColor=white)](https://www.kluniversity.in/)
 [![Location](https://img.shields.io/badge/Location-Jacksonville%2C%20FL%20%7C%20Open%20to%20Remote-4f46e5?style=flat-square&logo=google-maps&logoColor=white)](https://github.com/T-Neeharika-Sompalli)
 
 </div>
