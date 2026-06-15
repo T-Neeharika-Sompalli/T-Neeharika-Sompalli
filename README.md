@@ -19,7 +19,7 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-View%20My%20Work-6d28d9?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/T-Neeharika-Sompalli)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View%20My%20Work-6d28d9?style=for-the-badge&logo=vercel&logoColor=white)](https://neeharika-portfolio-delta.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-neeharikasompalli-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neeharika-sompalli-profile/)
 [![Email](https://img.shields.io/badge/Email-neehasrika%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:neehasrika@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-T--Neeharika--Sompalli-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/T-Neeharika-Sompalli)
@@ -30,7 +30,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=T-Neeharika-Sompalli&color=7c3aed&style=flat-square&label=Profile+Views)
 ![GitHub followers](https://img.shields.io/github/followers/T-Neeharika-Sompalli?color=6d28d9&style=flat-square&logo=github&label=Followers)
-![GitHub User's stars](https://img.shields.io/github/stars/T-Neeharika-Sompalli?affiliations=OWNER&color=4f46e5&style=flat-square&logo=github&label=Total+Stars)
 
 </div>
 
@@ -397,7 +396,7 @@ current_focus:
 [![Gmail](https://img.shields.io/badge/Gmail-neehasrika%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:neehasrika@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-neeharikasompalli--profile-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neeharikasompalli-profile)
 [![GitHub](https://img.shields.io/badge/GitHub-T--Neeharika--Sompalli-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/T-Neeharika-Sompalli)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View%20My%20Work-6d28d9?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/T-Neeharika-Sompalli)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View%20My%20Work-6d28d9?style=for-the-badge&logo=vercel&logoColor=white)](https://neeharika-portfolio-delta.vercel.app/)
 
 </div>
 
